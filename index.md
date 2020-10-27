@@ -1,12 +1,10 @@
 ## Resume for Flying Fergus
 
-You can use the [editor on GitHub](https://github.com/ampulla/ampulla.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a furry and friendly dog who likes to sleep and only demands one twenty-minute walk each day. I am resiliant, curious, and interested in learning new things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## School 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I went to puppy school but found it embarrasing. 
 
 ```markdown
 Syntax highlighted code block
